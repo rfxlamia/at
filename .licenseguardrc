@@ -1,0 +1,15 @@
+{
+  "license": "mit",
+  "owner": "rfxlamia",
+  "year": "2026",
+  "url": "https://github.com/rfxlamia/at",
+  "scanResult": {
+    "timestamp": "2026-09-14T08:31:40.316Z",
+    "totalDependencies": 0,
+    "compatible": 0,
+    "incompatible": 0,
+    "unknown": 0,
+    "issues": [],
+    "packages": []
+  }
+}
